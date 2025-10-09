@@ -41,7 +41,7 @@ color: #00ff99;
 /* Hero */
 .hero {
 height: 100vh;
-background: linear-gradient(to bottom, #0a0a23, #111133);
+background: linear-gradient(to bottom, #FF4500, #ff69b4);
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -56,7 +56,7 @@ font-weight: 800;
 margin-bottom: 1rem;
 }
 .hero p {
-color: #ccc;
+color: blue;
 max-width: 600px;
 margin-bottom: 2rem;
 }
@@ -79,24 +79,24 @@ text-align: center;
 background-color: #0a0a23;
 }
 .about h2 {
-color: #00ff99;
+color: red;
 font-size: 2rem;
 margin-bottom: 1.5rem;
 }
 .about p {
-color: #ccc;
+color: blue;
 max-width: 800px;
 margin: 0 auto;
 line-height: 1.7;
 }
 /* Services */
 .services {
-background-color: #111133;
+background-color: gold;
 padding: 5rem 2rem;
 text-align: center;
 }
 .services h2 {
-color: #00ff99;
+color: RED;
 margin-bottom: 2rem;
 }
 .cards {
@@ -139,7 +139,7 @@ margin-bottom: 1rem;
 }
 /* Contact */
 .contact {
-background-color: #111133;
+background-color: orangered;
 padding: 5rem 2rem;
 text-align: center;
 }
